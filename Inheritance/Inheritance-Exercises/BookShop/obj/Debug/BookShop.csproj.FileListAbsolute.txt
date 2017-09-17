@@ -1,0 +1,6 @@
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\BookShop\bin\Debug\BookShop.exe.config
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\BookShop\bin\Debug\BookShop.exe
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\BookShop\bin\Debug\BookShop.pdb
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\BookShop\obj\Debug\BookShop.exe
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\BookShop\obj\Debug\BookShop.pdb

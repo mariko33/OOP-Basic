@@ -1,0 +1,6 @@
+D:\C#OOPBasics\Encapsulation\Lab\PizzaCalories\bin\Debug\PizzaCalories.exe.config
+D:\C#OOPBasics\Encapsulation\Lab\PizzaCalories\bin\Debug\PizzaCalories.exe
+D:\C#OOPBasics\Encapsulation\Lab\PizzaCalories\bin\Debug\PizzaCalories.pdb
+D:\C#OOPBasics\Encapsulation\Lab\PizzaCalories\obj\Debug\PizzaCalories.csprojResolveAssemblyReference.cache
+D:\C#OOPBasics\Encapsulation\Lab\PizzaCalories\obj\Debug\PizzaCalories.exe
+D:\C#OOPBasics\Encapsulation\Lab\PizzaCalories\obj\Debug\PizzaCalories.pdb

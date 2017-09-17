@@ -1,0 +1,6 @@
+D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\bin\Debug\SortPersons.exe.config
+D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\bin\Debug\SortPersons.exe
+D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\bin\Debug\SortPersons.pdb
+D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\obj\Debug\SortPersons.exe
+D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\obj\Debug\SortPersons.pdb
+D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\obj\Debug\SortPersons.csprojResolveAssemblyReference.cache

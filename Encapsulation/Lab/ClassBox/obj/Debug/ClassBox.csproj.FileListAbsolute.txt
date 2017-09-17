@@ -1,0 +1,6 @@
+D:\C#OOPBasics\Encapsulation\Lab\ClassBox\bin\Debug\ClassBox.exe.config
+D:\C#OOPBasics\Encapsulation\Lab\ClassBox\bin\Debug\ClassBox.exe
+D:\C#OOPBasics\Encapsulation\Lab\ClassBox\bin\Debug\ClassBox.pdb
+D:\C#OOPBasics\Encapsulation\Lab\ClassBox\obj\Debug\ClassBox.csprojResolveAssemblyReference.cache
+D:\C#OOPBasics\Encapsulation\Lab\ClassBox\obj\Debug\ClassBox.exe
+D:\C#OOPBasics\Encapsulation\Lab\ClassBox\obj\Debug\ClassBox.pdb

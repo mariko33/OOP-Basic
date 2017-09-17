@@ -1,0 +1,6 @@
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Mankind\bin\Debug\Mankind.exe.config
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Mankind\bin\Debug\Mankind.exe
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Mankind\bin\Debug\Mankind.pdb
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Mankind\obj\Debug\Mankind.csprojResolveAssemblyReference.cache
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Mankind\obj\Debug\Mankind.exe
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Mankind\obj\Debug\Mankind.pdb

@@ -1,0 +1,6 @@
+D:\C#OOPBasics\DefiningClasses\DefiningClasses-Lab\bin\Debug\DefiningClasses-Lab.exe.config
+D:\C#OOPBasics\DefiningClasses\DefiningClasses-Lab\bin\Debug\DefiningClasses-Lab.exe
+D:\C#OOPBasics\DefiningClasses\DefiningClasses-Lab\bin\Debug\DefiningClasses-Lab.pdb
+D:\C#OOPBasics\DefiningClasses\DefiningClasses-Lab\obj\Debug\DefiningClasses-Lab.csprojResolveAssemblyReference.cache
+D:\C#OOPBasics\DefiningClasses\DefiningClasses-Lab\obj\Debug\DefiningClasses-Lab.exe
+D:\C#OOPBasics\DefiningClasses\DefiningClasses-Lab\obj\Debug\DefiningClasses-Lab.pdb

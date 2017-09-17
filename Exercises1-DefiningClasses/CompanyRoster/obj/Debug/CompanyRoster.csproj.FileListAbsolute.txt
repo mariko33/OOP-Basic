@@ -1,0 +1,6 @@
+D:\C#OOPBasics\Exercises1-DefiningClasses\CompanyRoster\bin\Debug\CompanyRoster.exe.config
+D:\C#OOPBasics\Exercises1-DefiningClasses\CompanyRoster\bin\Debug\CompanyRoster.exe
+D:\C#OOPBasics\Exercises1-DefiningClasses\CompanyRoster\bin\Debug\CompanyRoster.pdb
+D:\C#OOPBasics\Exercises1-DefiningClasses\CompanyRoster\obj\Debug\CompanyRoster.csprojResolveAssemblyReference.cache
+D:\C#OOPBasics\Exercises1-DefiningClasses\CompanyRoster\obj\Debug\CompanyRoster.exe
+D:\C#OOPBasics\Exercises1-DefiningClasses\CompanyRoster\obj\Debug\CompanyRoster.pdb

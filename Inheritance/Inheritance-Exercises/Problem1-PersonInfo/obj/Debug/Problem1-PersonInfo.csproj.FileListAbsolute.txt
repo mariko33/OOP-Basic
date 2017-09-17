@@ -1,0 +1,6 @@
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Problem1-PersonInfo\bin\Debug\Problem1-PersonInfo.exe.config
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Problem1-PersonInfo\bin\Debug\Problem1-PersonInfo.exe
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Problem1-PersonInfo\bin\Debug\Problem1-PersonInfo.pdb
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Problem1-PersonInfo\obj\Debug\Problem1-PersonInfo.csprojResolveAssemblyReference.cache
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Problem1-PersonInfo\obj\Debug\Problem1-PersonInfo.exe
+D:\C#OOPBasics\Inheritance\Inheritance-Exercises\Problem1-PersonInfo\obj\Debug\Problem1-PersonInfo.pdb
