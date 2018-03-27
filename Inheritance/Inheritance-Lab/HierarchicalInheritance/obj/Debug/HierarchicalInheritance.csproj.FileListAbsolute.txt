@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Inheritance\Inheritance-Lab\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.exe.config
-D:\C#OOPBasics\Inheritance\Inheritance-Lab\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.exe
-D:\C#OOPBasics\Inheritance\Inheritance-Lab\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.pdb
-D:\C#OOPBasics\Inheritance\Inheritance-Lab\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.exe
-D:\C#OOPBasics\Inheritance\Inheritance-Lab\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.pdb
-D:\C#OOPBasics\Inheritance\Inheritance-Lab\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.csprojResolveAssemblyReference.cache

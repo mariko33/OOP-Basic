@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Exercises1-DefiningClasses\SpeedRacing\bin\Debug\SpeedRacing.exe.config
-D:\C#OOPBasics\Exercises1-DefiningClasses\SpeedRacing\bin\Debug\SpeedRacing.exe
-D:\C#OOPBasics\Exercises1-DefiningClasses\SpeedRacing\bin\Debug\SpeedRacing.pdb
-D:\C#OOPBasics\Exercises1-DefiningClasses\SpeedRacing\obj\Debug\SpeedRacing.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\Exercises1-DefiningClasses\SpeedRacing\obj\Debug\SpeedRacing.exe
-D:\C#OOPBasics\Exercises1-DefiningClasses\SpeedRacing\obj\Debug\SpeedRacing.pdb

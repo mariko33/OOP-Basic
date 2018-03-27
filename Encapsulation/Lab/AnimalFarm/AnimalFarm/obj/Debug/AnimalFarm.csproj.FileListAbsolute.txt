@@ -1,6 +1,0 @@
-C:\Users\Toshiba\Downloads\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe.config
-C:\Users\Toshiba\Downloads\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.exe
-C:\Users\Toshiba\Downloads\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\bin\Debug\AnimalFarm.pdb
-C:\Users\Toshiba\Downloads\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
-C:\Users\Toshiba\Downloads\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.exe
-C:\Users\Toshiba\Downloads\02.CSharp-OOP-Basic-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\AnimalFarm.pdb

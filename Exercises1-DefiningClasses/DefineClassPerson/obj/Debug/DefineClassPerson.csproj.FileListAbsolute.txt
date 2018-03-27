@@ -1,5 +1,0 @@
-D:\C#OOPBasics\Exercises1-DefiningClasses\DefineClassPerson\bin\Debug\DefineClassPerson.exe.config
-D:\C#OOPBasics\Exercises1-DefiningClasses\DefineClassPerson\bin\Debug\DefineClassPerson.exe
-D:\C#OOPBasics\Exercises1-DefiningClasses\DefineClassPerson\bin\Debug\DefineClassPerson.pdb
-D:\C#OOPBasics\Exercises1-DefiningClasses\DefineClassPerson\obj\Debug\DefineClassPerson.exe
-D:\C#OOPBasics\Exercises1-DefiningClasses\DefineClassPerson\obj\Debug\DefineClassPerson.pdb

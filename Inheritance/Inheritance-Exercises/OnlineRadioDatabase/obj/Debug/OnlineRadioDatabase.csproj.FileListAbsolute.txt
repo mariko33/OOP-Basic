@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Inheritance\Inheritance-Exercises\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe.config
-D:\C#OOPBasics\Inheritance\Inheritance-Exercises\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe
-D:\C#OOPBasics\Inheritance\Inheritance-Exercises\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.pdb
-D:\C#OOPBasics\Inheritance\Inheritance-Exercises\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\Inheritance\Inheritance-Exercises\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.exe
-D:\C#OOPBasics\Inheritance\Inheritance-Exercises\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.pdb

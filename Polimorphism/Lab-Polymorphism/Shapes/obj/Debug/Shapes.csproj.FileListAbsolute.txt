@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\Shapes\bin\Debug\Shapes.exe.config
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\Shapes\bin\Debug\Shapes.exe
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\Shapes\bin\Debug\Shapes.pdb
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\Shapes\obj\Debug\Shapes.exe
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\Shapes\obj\Debug\Shapes.pdb

@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Exercises1-DefiningClasses\DateModifier\bin\Debug\DateModifier.exe.config
-D:\C#OOPBasics\Exercises1-DefiningClasses\DateModifier\bin\Debug\DateModifier.exe
-D:\C#OOPBasics\Exercises1-DefiningClasses\DateModifier\bin\Debug\DateModifier.pdb
-D:\C#OOPBasics\Exercises1-DefiningClasses\DateModifier\obj\Debug\DateModifier.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\Exercises1-DefiningClasses\DateModifier\obj\Debug\DateModifier.exe
-D:\C#OOPBasics\Exercises1-DefiningClasses\DateModifier\obj\Debug\DateModifier.pdb

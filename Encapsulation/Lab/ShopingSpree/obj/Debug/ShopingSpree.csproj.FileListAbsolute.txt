@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Encapsulation\Lab\ShopingSpree\bin\Debug\ShopingSpree.exe.config
-D:\C#OOPBasics\Encapsulation\Lab\ShopingSpree\bin\Debug\ShopingSpree.exe
-D:\C#OOPBasics\Encapsulation\Lab\ShopingSpree\bin\Debug\ShopingSpree.pdb
-D:\C#OOPBasics\Encapsulation\Lab\ShopingSpree\obj\Debug\ShopingSpree.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\Encapsulation\Lab\ShopingSpree\obj\Debug\ShopingSpree.exe
-D:\C#OOPBasics\Encapsulation\Lab\ShopingSpree\obj\Debug\ShopingSpree.pdb

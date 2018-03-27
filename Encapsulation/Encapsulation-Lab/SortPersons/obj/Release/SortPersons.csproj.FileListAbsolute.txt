@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\obj\Release\SortPersons.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\bin\Release\SortPersons.exe.config
-D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\bin\Release\SortPersons.exe
-D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\bin\Release\SortPersons.pdb
-D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\obj\Release\SortPersons.exe
-D:\C#OOPBasics\Encapsulation\Encapsulation-Lab\SortPersons\obj\Release\SortPersons.pdb

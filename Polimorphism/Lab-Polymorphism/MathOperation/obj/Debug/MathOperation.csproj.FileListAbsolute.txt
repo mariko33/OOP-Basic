@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\MathOperation\bin\Debug\MathOperation.exe.config
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\MathOperation\bin\Debug\MathOperation.exe
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\MathOperation\bin\Debug\MathOperation.pdb
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\MathOperation\obj\Debug\MathOperation.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\MathOperation\obj\Debug\MathOperation.exe
-D:\C#OOPBasics\Polimorphism\Lab-Polymorphism\MathOperation\obj\Debug\MathOperation.pdb

@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Encapsulation\EncapsulationExercises\Problem1-Box\bin\Debug\Problem1-Box.exe.config
-D:\C#OOPBasics\Encapsulation\EncapsulationExercises\Problem1-Box\bin\Debug\Problem1-Box.exe
-D:\C#OOPBasics\Encapsulation\EncapsulationExercises\Problem1-Box\bin\Debug\Problem1-Box.pdb
-D:\C#OOPBasics\Encapsulation\EncapsulationExercises\Problem1-Box\obj\Debug\Problem1-Box.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\Encapsulation\EncapsulationExercises\Problem1-Box\obj\Debug\Problem1-Box.exe
-D:\C#OOPBasics\Encapsulation\EncapsulationExercises\Problem1-Box\obj\Debug\Problem1-Box.pdb

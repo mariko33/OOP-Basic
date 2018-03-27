@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Polimorphism\Polymorphism-Exercises\WildFarm\bin\Debug\WildFarm.exe.config
-D:\C#OOPBasics\Polimorphism\Polymorphism-Exercises\WildFarm\bin\Debug\WildFarm.exe
-D:\C#OOPBasics\Polimorphism\Polymorphism-Exercises\WildFarm\bin\Debug\WildFarm.pdb
-D:\C#OOPBasics\Polimorphism\Polymorphism-Exercises\WildFarm\obj\Debug\WildFarm.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\Polimorphism\Polymorphism-Exercises\WildFarm\obj\Debug\WildFarm.exe
-D:\C#OOPBasics\Polimorphism\Polymorphism-Exercises\WildFarm\obj\Debug\WildFarm.pdb

@@ -1,7 +1,0 @@
-D:\C#OOPBasics\SystemSplit\SystemSplit\bin\Debug\SystemSplit.exe.config
-D:\C#OOPBasics\SystemSplit\SystemSplit\bin\Debug\SystemSplit.exe
-D:\C#OOPBasics\SystemSplit\SystemSplit\bin\Debug\SystemSplit.pdb
-D:\C#OOPBasics\SystemSplit\SystemSplit\obj\Debug\SystemSplit.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\SystemSplit\SystemSplit\obj\Debug\SystemSplit.csproj.CoreCompileInputs.cache
-D:\C#OOPBasics\SystemSplit\SystemSplit\obj\Debug\SystemSplit.exe
-D:\C#OOPBasics\SystemSplit\SystemSplit\obj\Debug\SystemSplit.pdb

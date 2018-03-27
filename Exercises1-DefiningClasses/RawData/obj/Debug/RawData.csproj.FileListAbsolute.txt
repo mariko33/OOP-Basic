@@ -1,6 +1,0 @@
-D:\C#OOPBasics\Exercises1-DefiningClasses\RawData\bin\Debug\RawData.exe.config
-D:\C#OOPBasics\Exercises1-DefiningClasses\RawData\bin\Debug\RawData.exe
-D:\C#OOPBasics\Exercises1-DefiningClasses\RawData\bin\Debug\RawData.pdb
-D:\C#OOPBasics\Exercises1-DefiningClasses\RawData\obj\Debug\RawData.csprojResolveAssemblyReference.cache
-D:\C#OOPBasics\Exercises1-DefiningClasses\RawData\obj\Debug\RawData.exe
-D:\C#OOPBasics\Exercises1-DefiningClasses\RawData\obj\Debug\RawData.pdb
